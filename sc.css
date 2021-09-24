@@ -162,7 +162,7 @@ section .title::after{
 /* Home section styling */
 .home{
     display: flex;
-    background: url(https://i.pinimg.com/736x/50/6b/54/506b54a944b0db63ae53497dc27a032d.jpg) no-repeat center;
+    background: url: "https://i.pinimg.com/736x/50/6b/54/506b54a944b0db63ae53497dc27a032d.jpg";
     height: 100vh;
     min-height: 500px;
     background-size: cover;
