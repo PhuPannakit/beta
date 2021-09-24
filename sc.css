@@ -1,6 +1,4 @@
-/*  import google fonts */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap');
-
 *{
     margin: 0;
     padding: 0;
@@ -507,7 +505,6 @@ footer span a:hover{
     .Introduction .Introduction-content .left img{
         height: 350px;
         width: 350px;
-    }
 }
 
 @media (max-width: 991px) {
@@ -579,8 +576,6 @@ footer span a:hover{
         width: 100%;
         margin-bottom: 35px;
     }
-}
-
 @media (max-width: 690px) {
     .max-width{
         padding: 0 23px;
@@ -597,8 +592,6 @@ footer span a:hover{
     .Education .Education-content .card{
         width: 100%;
     }
-}
-
 @media (max-width: 500px) {
     .Home .Home-content .text-2{
         font-size: 50px;
